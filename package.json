@@ -41,7 +41,7 @@
 		"lint-staged": "^9.2.3",
 		"mustache": "^3.0.1",
 		"parcel-bundler": "^1.12.3",
-		"postcss": "^7.0.17",
+		"postcss": "^7.0.36",
 		"postcss-custom-properties": "^9.0.2",
 		"postcss-flexbugs-fixes": "^4.1.0",
 		"postcss-font-family-system-ui": "^4.1.1",
